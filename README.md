@@ -13,8 +13,8 @@ Este é um boilerplate moderno para aplicações Laravel, já configurado com Li
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/gitnmartins/laravel-boilerplate.git
-cd NOME_REPOSITORIO
+git clone https://github.com/gitnmartins/laravel-boilerplate.git NOME
+cd NOME
 composer install
 cp .env.example .env
 php artisan key:generate
